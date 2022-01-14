@@ -1,0 +1,22 @@
+.influencer{
+display: flex;
+}
+.influencer-part{
+    margin-left:5%;
+    font-family: 'Work Sans', sans-serif;
+}
+.influencers{
+    margin-top:5%;
+    width: 50%;
+
+}
+h1{
+    font-size: 40px;
+}
+.influencers a{
+    text-decoration:none;
+    background-color: #B9345A;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
